@@ -1,0 +1,7 @@
+# FDM.in  for OpenCFD-EC ver 1.12;   Blocks for Finite-Difference Method 
+# FD_Flux,  FD_Scheme    ! FD_Steger_Warming=1,FD_Van_Leer=2 ;  FD_WENO5=1,FD_WENO7=2,FD_OMP6=3 
+    1         1
+# nbk
+   2
+# list of block for finit-difference method
+   2  3
